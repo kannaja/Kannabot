@@ -1,2 +1,0 @@
-# Kannabot
-bot de test
